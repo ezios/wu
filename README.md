@@ -1,5 +1,5 @@
 # wu
-! Written for ouzint challenge "You like Maths"
+## Written for ouzint challenge "You like Maths"
 Install selenium
 - pip install selenium
 
