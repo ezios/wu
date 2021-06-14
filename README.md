@@ -12,3 +12,7 @@ Read the source code
 Set varibale PHONE_NUMBER to your account phone number
 
 You will maybe need to change value of sleep duration. 
+
+python ouzintIt.py
+
+wait for a couple of seconds, you will receive a message on telegram, type received number on the terminal, press enter and wait for your flag
